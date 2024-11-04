@@ -1,0 +1,1 @@
+const URI="mongodb+srv://amitmodi038:EOMVrRcrCuuBH6dB@namastenode.dtezd.mongodb.net/?retryWrites=true&w=majority&appName=NamasteNode"
